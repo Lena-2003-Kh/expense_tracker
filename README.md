@@ -170,10 +170,5 @@ I keep one "source of truth": the `allExpenses` array that comes from the server
 
 ---
 
-## Demo
-[Watch the demo video](https://drive.google.com/file/d/1yyCJPxEoR2MbmNFQm5wPZR0R2TOnjGiv/view?usp=sharing)
-
----
-
 ## GitHub 
 [Github Link](https://github.com/Lena-2003-Kh/expense_tracker.git)
